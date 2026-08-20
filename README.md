@@ -8,28 +8,14 @@ Prometheus listens, understands, and responds — transforming questions into le
 
 ---
 
-## 🧠 Philosophy
+## Core Features
 
-The goal of this project is not simply to build a chatbot, but to explore deeper concepts in software engineering and artificial intelligence:
-
-* Conversational systems
-* Voice interfaces
-* Context-aware responses
-* Persistent memory
-* Project architecture and version control
-
-Prometheus is both a **technical experiment** and a **learning companion**.
-
----
-
-## ⚙️ Core Features
-
-* 🎙️ Voice input (speech-to-text)
-* 🧠 Conversational AI processing
-* 🔊 Voice output (text-to-speech)
-* 📚 Context awareness
-* 💾 Memory handling
-* 🗂️ Structured project architecture
+* Voice input (speech-to-text)
+* Conversational AI processing
+* Voice output (text-to-speech)
+* Context awareness
+* Memory handling
+* Structured project architecture
 
 ---
 
@@ -73,14 +59,6 @@ Planned improvements include:
 * better voice interaction pipeline
 * modular AI backends
 * improved developer tooling
-
----
-
-## Acknowledgements
-
-This project was developed with the help of **ChatGPT**, which served as a guide and learning partner throughout the development process.
-
-The goal of Prometheus is not just to answer questions, but to keep the flame of curiosity alive.
 
 ---
 
