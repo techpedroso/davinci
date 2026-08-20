@@ -19,7 +19,7 @@ Prometheus listens, understands, and responds — transforming questions into le
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 The project is structured to keep responsibilities separated and maintainable.
 
@@ -37,7 +37,7 @@ prometheus/
 
 ---
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project was created as part of a personal journey into deeper software engineering concepts.
 
@@ -50,7 +50,7 @@ Rather than focusing only on theory, Prometheus serves as a **hands-on environme
 
 ---
 
-## 🚀 Future Goals
+## Future Goals
 
 Planned improvements include:
 
@@ -62,6 +62,6 @@ Planned improvements include:
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source and available under the MIT License.
